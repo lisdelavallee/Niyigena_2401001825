@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+
+    div{
+
+background-color: red;
+border: 3px solid gray;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:28px ;
+font-weight: bold;
+    }
+</style>
+<title>font</title>
+</head>
+<body>
+<div>
+    hello, world
+</div>
+some student
+</body>
+
+</html>
