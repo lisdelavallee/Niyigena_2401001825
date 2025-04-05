@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>form</title>
+</head>
+<body>
+<form>
+    <label></label>
+<input type="text" placeholder="firstname" name="firstname">
+<input type="submit" placeholder="submit" name="submit">
+</form>
+
+
+</body>
+
+</html>
