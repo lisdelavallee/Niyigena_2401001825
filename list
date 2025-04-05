@@ -1,0 +1,22 @@
+<html>
+    <doctype html>
+        <html lang ="en">
+    <head>
+    
+        <title>lists</title>
+        </head>
+        <body>
+            an unordered list;
+        <ul>
+            <li>first item </li>
+            <li>second item</li>
+            <li>third item</li>
+        </ul>
+        an ordered list
+        <ol>
+            <li>first item</li>
+            <li>second item</li>
+            <li>third item</li>
+        </ol>
+    </body>
+        </html>
